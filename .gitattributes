@@ -1,5 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-/OnlyFactories
-/OnlyFactories_Express_EC2
+git add /OnlyFactories_Express_EC2
